@@ -1,0 +1,10 @@
+$(document).ready(function(){
+   $(".Tnbtn2").click(function(){
+     $(".Tnbtn2").addClass("active");
+     $(".Tnbtn1").removeClass("active");
+   });
+   $(".Tnbtn1").click(function(){
+     $(".Tnbtn1").addClass("active");
+     $(".Tnbtn2").removeClass("active");
+   });
+ });

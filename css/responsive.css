@@ -1,0 +1,289 @@
+@media only screen and (min-width:320px) and (max-width:389px){
+   .Editior{
+      margin: 0px;
+   }
+   .EditorFstP{
+      font-size: 12px;
+   }
+   h1{
+      font-size: 30px;
+   }
+   .SldSec{
+      text-align: center;
+   }
+   .forthColDiv p{
+      font-size: 10px;
+   }
+   section.FiveSection{
+      /* font-size: 20px; */
+      padding: 0px;
+   }
+   .FivePbinder p {
+      margin-left: 20px;
+      font-size: 10px;
+  }
+  .NineSec{
+     padding: 0px;
+  }
+  .nineCol h4{
+   font-size: 20px;
+   font-weight: inherit;
+  }
+  .nineCol p{
+   font-size: 10px;
+  }
+  .nineSecImg img {
+   padding:0px;
+}
+.Tencol{
+   flex-basis: auto;
+}
+.Tencol:nth-child(1) {
+   margin-right: 0px;
+}
+.Tencol:nth-child(2) {
+   margin-left: 0px;
+   margin-top: 15px;
+}
+.lstRow1 {
+   width: 100%;
+}
+.LstSec a{
+   font-weight: lighter;
+}
+.FooterManu{
+   padding: 0px;
+   font-size: 10px;
+}
+.sliderImg1 img {
+   width: 180px;
+}
+}
+@media only screen and (min-width:390px) and (max-width:479px){
+   .Editior {
+     margin-top: 20px;
+     margin: 0px 0px 0px 20px;
+     text-align: center;
+  }
+  .sliderImg1 img {
+     width: 250px;
+}
+.sliderImg1{
+    width: 50%;
+    margin: auto;
+}
+.forthSectin{
+   padding-top: 0px;
+}
+.thirdSection {
+   padding-bottom: 0px;
+}
+section.FiveSection {
+   padding: 10px 0px 0px 0px;
+}
+h1{
+   font-size: 35px
+}
+.FiveSection p {
+   font-size: 14px;
+}
+
+.FivePbinder p {
+   margin-left: 10px;
+}
+.SevenColSecond {
+   margin-top: 10px;
+}
+.nineSecImg img {
+   padding: 10px 0px 0px 0px;
+}
+.Tencol{
+   flex-basis: auto;
+}
+.Tencol:nth-child(1) {
+   margin-right: 0px;
+}
+.Tencol:nth-child(2) {
+   margin-left: 0px;
+   margin-top: 15px;
+}
+.FooterManu{
+   padding: 0px;
+   font-size: 14px;
+}
+.LstSec a{
+   font-weight: lighter;
+}
+.lstRow1 {
+   width: 100%;
+   text-align: center;
+}
+}
+@media only screen and (min-width:480px) and (max-width:766px){
+   .Editior {
+      margin-top: 20px;
+      margin: 0px 0px 0px 20px;
+      text-align: center;
+  }
+  .sliderImg1 img {
+   width: 250px;
+}
+.sliderImg1{
+   width: 50%;
+   margin: auto;
+}
+.forthSectin{
+   padding-top: 0px;
+}
+.thirdSection {
+   padding-bottom: 0px;
+}
+.sliderImg2{
+   width: 60%;
+   margin: auto;
+}
+h1{
+   font-size: 35px;
+}
+.FiveSection h1{
+   font-size: 30px;
+}
+section.FiveSection {
+   padding: 20px 0px 0px 30px;
+}
+.sevenSec{
+   padding-top: 0px;
+}
+.SevenColSecond {
+   margin-top: 0px;
+}
+.eightSec h1{
+   font-size: 30px;
+}
+.nineSecImg{
+   padding-top: 0px;
+}
+.nineSecImg img {
+   padding:0px;
+}
+.Tencol{
+   flex-basis: auto;
+}
+.Tencol:nth-child(1) {
+   margin-right: 0px;
+}
+.Tencol:nth-child(2) {
+   margin-left: 0px;
+   margin-top: 15px;
+}
+.FooterManu{
+   padding: 0px;
+   font-size: 15px;
+}
+.LstSec a{
+   font-weight: lighter;
+}
+.lstRow1 {
+   width: 100%;
+   text-align: center;
+}
+}
+@media only screen and (min-width:767px) and (max-width:990px){
+   .SldSec{
+      padding-top: 0px;
+   }
+   section:nth-child(2) {
+      margin-top: 0px;
+  }
+  .sliderImg1{
+   width: 50%;
+   margin: auto;
+}
+.forthSectin{
+   padding-top: 0px;
+}
+section.FiveSection {
+   padding:20px 0px 0px 0px;
+}
+.sixSection{
+   padding-top: 0px;
+}
+.nineSecImg{
+   padding-top: 0px;
+}
+.nineSecImg img {
+   padding: 0px 0px 0px 0px;
+}
+.FooterManu{
+   padding: 0px;
+   font-size: 15px;
+}
+.LstSec a{
+   font-weight: lighter;
+}
+.lstRow1 {
+   width: 100%;
+   text-align: center;
+}
+.SevenColSecond {
+   margin-top: 10px;
+}
+h1{
+   font-size: 30px;
+}
+p{
+   font-size: 12px;
+}
+.Editior {
+
+   margin: 80px 0px 0px 150px;
+}
+.sliderImg1 img {
+   padding-top: 100px;
+}
+}
+@media only screen and (min-width:991px) and (max-width:1199px){
+   .forthColDiv p{
+      font-size: 14px;
+   }
+   .FiveSection h1{
+      font-size: 30px;
+   }
+   .FivePbinder p {
+      margin-left: 10px;
+      font-size: 12px;
+  }
+  .SevenColSecond {
+   margin-top: 0px;
+}
+.SevenColSecond h1{
+   font-size: 30px;
+}
+.SevenColSecond p{
+   font-size: 12px;
+}
+.NineSec h1{
+   font-size: 30px;
+}
+.NineSec p{
+   font-size: 12px;
+}
+.NineSec h4{
+   font-weight: lighter;
+   font-size: 20px;
+}
+.FooterManu{
+   padding: 0px;
+   font-size: 15px;
+}
+.LstSec a{
+   font-weight: lighter;
+}
+.lstRow1 {
+   width: 100%;
+   text-align: center;
+}
+}
+@media only screen and (min-width:1200px){
+   
+}

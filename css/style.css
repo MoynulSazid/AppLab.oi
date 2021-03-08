@@ -1,0 +1,326 @@
+p{
+   color: #616368;
+}
+h1{
+   color: #242E50;
+   font-weight: bold;
+}
+.NevMenu{
+   font-family: 'Poppins', sans-serif;
+   border-bottom:2px solid #ebf0f1;
+   background-color: white;
+}
+.NevMenu a{
+   color: black!important;
+}    
+.customManuButton{
+   margin-left: 20px;
+   margin-right: 20px;
+}
+.customManuButton button{
+   border-radius: 25px;
+   color: #fff;
+   background-color: #2b0ef7;
+   border-color: #2b0ef7;
+}
+.NevMenu a:hover{
+   color: #2b0ef7!important;
+   transition: 500ms;
+} 
+.SldSec{
+   background-image: url("../img/FirstsecBg.png");
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.EditorFstP{
+   display: inline-block;
+}
+.EditorFstP{
+   background-image: url("../img/editorBgfull.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   padding: 10px 30px 10px 40px;
+}
+.Editior{
+   margin-top: 20px;
+   font-family: 'Poppins';
+   margin: 120px 0px 0px 150px;
+}
+.Editior img{
+   width: 30px;
+}
+.Editior span{
+   
+   left: 20px;
+   bottom: 2px;
+}
+.Editior h2{
+   color:#242E50;
+   
+}
+.btn2{
+   border-radius: 25px;
+   color: #fff;
+   background-color: #2b0ef7;
+   border-color: #2b0ef7;
+}
+.btn3:hover{
+   border-radius: 25px;
+   color: #fff;
+   background-color: #2b0ef7;
+   border-color: #2b0ef7;
+   outline: 0px;
+   padding: 10px 5px 10px 5px;
+   transition:300ms;
+}
+.btn3{
+    background: #ffffff00;;
+    border: 0px;
+    outline: 0px;
+    padding: 10px 5px 10px 5px;
+    box-shadow:0 0 0 0.2rem rgb(0 123 255 / 0%);
+}
+button{
+   outline: 0px;
+}
+.EditorLstP{
+   
+}
+.sliderImg1 img{
+   width: 300px;
+}
+.thirdSectionP1{
+   font-family: 'Poppins';
+   text-align: center;
+}
+
+.thirdSection img{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.thirdSection{
+   width: 80%;
+   margin: auto;
+}
+.SldRow{
+   margin-right: 0px;
+}
+.row{
+   margin-right: 0px;
+}
+.thirdSection{
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+.forthColDiv {
+   position: relative;
+   margin: 20px 0px 0px 0px;
+}
+
+span.forthSpan2 {
+   position: absolute;
+}
+.H4One{
+   color: #f55767;
+}
+.H4Two{
+   color: #2563ff;
+}
+.H4Three{
+   color: #40975f;
+}
+h4{
+   font-weight: bold;
+}
+.FivePbinder p{
+   margin-left:40px;
+}
+.FivePbinder {
+   padding: 20px 0px 20px 0px;
+   border-left: 2px solid #bbbbba;
+}
+section.FiveSection {
+   padding: 20px 50px 20px 50px;
+}
+.sixSection img{
+  display: block;
+  margin-right: auto;
+}
+section.sixSection {
+   width: 90%;
+   margin: auto;
+}
+section{
+   padding-top: 50px;
+}
+.btn{
+   font-weight: bold;
+}
+section:first-child{
+   padding-top: 0px;
+}
+.btn:hover{
+   background-color: white;
+}
+.SevenColSecond{
+   margin-top: 150px;
+}
+section:nth-child(2){
+   margin-top: 50px;
+}
+.btn3:focus{
+   border: 0px;
+   outline: 0px;
+   box-shadow:0 0 0 0.2rem rgb(0 123 255 / 0%);  
+}
+.eightSec{
+   text-align: center;
+   width: 80%;
+   margin: auto;
+}
+.eightSec p{
+   padding-bottom: 50px;
+}
+.eightSec h4{
+   color: #242E50;;
+}
+.NineCol6{
+   width: 48%;
+   position: relative;
+   display: inline-block;
+}
+.NineSec{
+   width: 90%;
+   margin: auto;
+}
+.nineSecImg img{
+   padding: 200px 0px 0px 0px;
+}
+.NineSec p{
+   margin-bottom: 50px;
+}
+.TenSec{
+   text-align: center;
+}
+.TenBtn button{
+   width: 120px;
+   height: 40px;
+   border-radius: 15px;
+   
+}
+.TenBtn button:nth-child(1){
+   margin-right: 0px;
+   border: 0px;
+   
+}
+.TenBtn button:nth-child(2){
+   margin-left: 0px;
+   border: 0px;
+   
+}
+.active{
+   background-color: blue;
+   color: white;
+   transition: all 1s;
+   
+}
+.TenBtn button:focus{
+   outline: 0px;
+   
+}
+.TenBtn{
+   width: 246px;
+   margin:auto;
+   border-radius: 15px;
+   background-color: #EFEFEF;
+   margin-bottom: 90px;
+   
+}
+.TenSec{
+   width:65%;
+   margin: auto;
+}
+.TenCol{
+   color: #616368;
+}
+.TenCol h4{
+   color: black;
+}
+.TenCol1 span:nth-child(1){
+   font-size: 40px;
+   font-weight: bold;
+   color: black;
+
+}
+.Tnbtn3{
+   border-radius: 20px;
+   color: #fff;
+   background-color: #2b0ef7;
+   border-color: #2b0ef7;
+   padding-right: 25px;
+   padding-left: 25px;
+}
+.TenCol1,.TenCol2{
+   padding-bottom: 30px;
+   padding-top: 30px;
+   border-radius:15px 15px 0px 0px;
+}
+.TenCol2{
+   border-radius:0px 0px 15px 15px;
+}
+.TenCol1{
+   background-color: #F3F6F8;
+
+}
+.Tencol{
+   border-radius: 15px;
+   box-shadow: 0px 0px 20px 0px #88888842;
+   padding: 0px;
+
+}
+.Tencol:nth-child(1){
+   margin-right: 10px;
+}
+.Tencol:nth-child(2){
+   margin-left: 10px;
+}
+.LstLogo{
+   width:40%;
+   margin: auto;
+}
+.LstLogo img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.LstSec{
+   background-color: #09132D;
+}
+.LstSec a:hover{
+   color: #e7e7e7;
+   text-decoration: none;
+   background-color: transparent;
+   font-weight: bold;
+}
+.LstSec a{
+   color: #ffffff;
+   text-decoration: none;
+   background-color: transparent;
+   font-weight: bold;
+}
+.lstRow1{
+   width: 60%;
+   margin: auto;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+.LstSec p{
+   text-align: center;
+   padding-bottom: 50px;
+}
